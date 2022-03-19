@@ -1,0 +1,9 @@
+{
+    "plugins":[
+        {
+            "name":"CustomText",
+            "version":"1.0.0",
+            "author":"ProJakob#0408"
+        }
+    ]
+}
