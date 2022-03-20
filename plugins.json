@@ -5,6 +5,12 @@
             "version": "1.0.0",
             "author": "ProJakob#0408",
             "downloadLink": "https://github.com/ProJakob/SimplexPluginInstaller/raw/main/CustomText.jar"
+        },
+        {
+            "name": "VanillaMainMenu",
+            "version": "1.0.0",
+            "author": "Nyami <3#3187",
+            "downloadLink": "https://github.com/ProJakob/SimplexPluginInstaller/raw/main/VanillaMainMenu.jar"
         }
     ],
     "version": 1
