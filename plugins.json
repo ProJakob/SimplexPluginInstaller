@@ -7,6 +7,12 @@
             "downloadLink": "https://github.com/ProJakob/SimplexPluginInstaller/raw/main/CustomText.jar"
         },
         {
+            "name": "CustomMainMenu",
+            "version": "1.0.0 (Heavy Development)",
+            "author": "ProJakob#0408",
+            "downloadLink": "https://github.com/ProJakob/SimplexPluginInstaller/raw/main/CustomMainMenu.jar"
+        },
+        {
             "name": "VanillaMainMenu",
             "version": "1.0.0",
             "author": "Nyami <3#3187",
