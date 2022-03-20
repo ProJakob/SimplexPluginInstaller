@@ -1,10 +1,46 @@
 {
-    "plugins":[
+    "plugins": [
         {
-            "name":"CustomText",
-            "version":"1.0.0",
-            "author":"ProJakob#0408",
-            "downloadLink":"https://cdn.discordapp.com/attachments/954747339891945544/954848954594512906/CustomText.jar"
-            }
-        ]
+            "name": "CustomText",
+            "version": "1.0.0",
+            "author": "ProJakob#0408",
+            "downloadLink": "https://cdn.discordapp.com/attachments/954747339891945544/954848954594512906/CustomText.jar"
+        },
+        {
+            "name": "Test1",
+            "version": "1.0.0",
+            "author": "ProJakob#0408",
+            "downloadLink": "NA"
+        },
+        {
+            "name": "Test2",
+            "version": "1.0.0",
+            "author": "ProJakob#0408",
+            "downloadLink": "NA"
+        },
+        {
+            "name": "Test3",
+            "version": "1.0.0",
+            "author": "ProJakob#0408",
+            "downloadLink": "NA"
+        },
+        {
+            "name": "Test4",
+            "version": "1.0.0",
+            "author": "ProJakob#0408",
+            "downloadLink": "NA"
+        },
+        {
+            "name": "Test5",
+            "version": "1.0.0",
+            "author": "ProJakob#0408",
+            "downloadLink": "NA"
+        },
+        {
+            "name": "Test6",
+            "version": "1.0.0",
+            "author": "ProJakob#0408",
+            "downloadLink": "NA"
+        }
+    ]
 }
