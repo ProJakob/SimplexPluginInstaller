@@ -3,21 +3,21 @@
         {
             "name": "CustomText",
             "version": "2.0.0",
-            "author": "ProJakob#0408",
+            "author": "just_jakob",
             "downloadLink": "https://github.com/ProJakob/SimplexPluginInstaller/raw/main/CustomText.jar"
         },
         {
             "name": "CustomMainMenu",
             "version": "1.0.0 (Heavy Development)",
-            "author": "ProJakob#0408",
+            "author": "just_jakob",
             "downloadLink": "https://github.com/ProJakob/SimplexPluginInstaller/raw/main/CustomMainMenu.jar"
         },
         {
             "name": "VanillaMainMenu",
             "version": "1.0.0",
-            "author": "Nyami <3#3187",
+            "author": "nyami_",
             "downloadLink": "https://github.com/ProJakob/SimplexPluginInstaller/raw/main/VanillaMainMenu.jar"
         }
     ],
-    "version": 2
+    "version": 3
 }
